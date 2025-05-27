@@ -24,3 +24,8 @@ ATGCAAGTCGAGCGGATGAAGGG
 |||||||||||||||  | |  |
 ATGCAAGTCGAGCGGCAGCACAG
 ```
+
+## 📁 Repository Structure
+- `fastafile.fa`: two sequences to align organized in fasta format
+- `align_sequences.sh`: script that contains all commands
+
